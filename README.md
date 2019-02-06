@@ -1,7 +1,6 @@
 # Udacity DAND P1 : Explore Weather Trends
 
-![Image of Global Weather Trends]
-(https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a5d44f_earth/earth.png)
+![Image of Global Weather Trends](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a5d44f_earth/earth.png)
 
 ## Exploring Weather Trends - Project Instructions
 
